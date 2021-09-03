@@ -33,6 +33,7 @@ section {
 /* Styling for the h2 for all sections. Modifies components that have the section-header class*/
 .section-header {
     font-family: "Papyrus", fantasy;
+    text-decoration: underline;
 }
 
 /* Styling for the body tags, affecting all the components except for the header, which is the page banner */
@@ -44,12 +45,12 @@ body {
 }
 
 /* Changed the sizing of the img in the banner to be presentable */
-.banner-img {
+img {
     height: 100px;
     width: 100px;
 }
 
-/* Stylings for all the h2 tags. */
+/* Stylings for all the h2 tags.
 h2 {
-    text-decoration: underline;
-}
+    
+} */
